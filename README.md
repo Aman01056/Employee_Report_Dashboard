@@ -21,7 +21,8 @@ An interactive **Employee Report Dashboard** that offers comprehensive insights 
 
 > *Download and open in Power BI to explore interactively.*
 
-![Employee Dashboard Preview])
+![Employee Dashboard Preview](![Screenshot 2025-06-24 093247](https://github.com/user-attachments/assets/0543d93c-951f-4e11-9576-742044bbaecd)
+)
 
 ---
 
